@@ -187,6 +187,7 @@ happy# Contributors
 - [Michael](https://github.com/LucidWinter)
 - [Phillip](gttps://github.com/PhillipSom)
 - [Robiya] (https://github.com/rhakim24)
+- [SEA=SS](https://github.com/SEA-SS)
 - [Kit-Kat31415926](https://github.com/Kit-Kat31415926)
 - [Luís Simas](https://github.com/luissimas)
 - [Ramis Humayun](https://github.com/Ramis102)
